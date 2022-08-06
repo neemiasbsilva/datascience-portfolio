@@ -13,5 +13,22 @@ To diving deeper of statistic topics, first of all you need to understand the di
 
 So, to make your experimental results more reliable and hold for the entire population, the sample needs to be true representation of the population. That is, the sample needs to be unbiased. In other words, if your sample don't represent the true repesentation, you have to use some statistical sampling techniques (e.g. Random Sampling, Systematic Sampling, Clustered Sampling, Wheighted Sampling, or Stratified Sampling).
 
+# Mean
 
+Given a random variable called X for a particular data. This random variable can be split up as follow:
 
+$$ X = X_{1}, X_{2}, X_{3}, ..., X_{N} $$
+
+where $N$ is the number of observation or data points in the sample set or simple data frequency.
+
+Then the **sample mean** can be defined by $\mu$, which is very close to the population mean. The mean can be:
+
+$$ \mu = \frac{\left( \sum_{i=1}^N X_i \right)}{N} $$
+
+This mean is also referred to as **expectation** which defined by E() or random variable with a bar on the top. E(X) and E(Y) can be:
+
+$$ \bar{\mathbb{X}} = \frac{\left( \sum_{i=1}^N X_i \right)}{N} $$ 
+
+$$ \bar{\mathbb{Y}} = \frac{\left( \sum_{i=1}^N Y_i \right)}{N} $$
+
+To understand more about check de notebook available in the notebook folder.
