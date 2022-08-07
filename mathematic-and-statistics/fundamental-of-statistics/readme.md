@@ -50,3 +50,13 @@ $$ \sigma = \sqrt{\frac{\left( \sum_{i=1}^N (x_i - \mu)^2 \right)}{N}}$$
 In general, $\sigma$ is preferred over the variance because is has the same unit as the number of observations, which means you can interpret more easily.
 
 To understand more about check the notebook available in the notebook folder.
+
+# Correlation
+
+If you want to measure the relationship, the strength and the direction of the linear relationship between two variables, you can use the correlation metric. If a correlation is selected then it means that there is a relationship (or a partner).Suppose you have two random variables, so the correlation can be equal to the covariance between these two variables dived to the product of standard deviation of these variable.
+
+$$ Cor(X, Y) = {Cov(X, Y) \over \sigma_x \sigma_y} $$
+
+When interpret correlation is to not confuse it with a **causation**, given that a correlation is not a causation. Another point to keep in mind, coefficients'value range varie between -1 and 1, and if you want to use correlation of a variable itself the result its always be 1, in other words $Cor(X, X) = 1$.
+
+To understand more about check the notebook available in the notebook folder.
