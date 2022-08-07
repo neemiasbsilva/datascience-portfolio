@@ -29,7 +29,7 @@ This mean is also referred to as **expectation** which defined by E() or random 
 
 $$ \bar{\mathbb{X}} = \frac{\left( \sum_{i=1}^N X_i \right)}{N} $$ 
 
-To understand more about check de notebook available in the notebook folder.
+To understand more about check the notebook available in the notebook folder.
 
 # Variance
 
