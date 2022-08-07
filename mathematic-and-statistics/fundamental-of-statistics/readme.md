@@ -25,10 +25,8 @@ Then the **sample mean** can be defined by $\mu$, which is very close to the pop
 
 $$ \mu = \frac{\left( \sum_{i=1}^N X_i \right)}{N} $$
 
-This mean is also referred to as **expectation** which defined by E() or random variable with a bar on the top. E(X) and E(Y) can be:
+This mean is also referred to as **expectation** which defined by E() or random variable with a bar on the top. For example E(X) can be:
 
 $$ \bar{\mathbb{X}} = \frac{\left( \sum_{i=1}^N X_i \right)}{N} $$ 
-
-$$ \bar{\mathbb{Y}} = \frac{\left( \sum_{i=1}^N Y_i \right)}{N} $$
 
 To understand more about check de notebook available in the notebook folder.
