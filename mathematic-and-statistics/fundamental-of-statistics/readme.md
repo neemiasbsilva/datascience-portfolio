@@ -38,3 +38,14 @@ For know how far the number of observations (data point) are spreads out from th
 $$ \sigma^2 = \frac{\left( \sum_{i=1}^N (x_i - \mu)^2 \right)}{N}$$
 
 Summary, for deriving expectation and variance you can use some of popular probability distribution functions: **Bernoulli**, **Binomial**, **Geometric**, **Uniform**, or **Exponential**.
+
+
+# Standard Deviation
+
+When we want to measure the extent to which data varies from the average, that means we want to apply **Standard Deviation** ( $\sigma$ ). The formula can be show:
+
+$$ \sigma = \sqrt{\frac{\left( \sum_{i=1}^N (x_i - \mu)^2 \right)}{N}}$$
+
+In general, $\sigma$ is preferred over the variance because is has the same unit as the number of observations, which means you can interpret more easily.
+
+To understand more about check the notebook available in the notebook folder.
