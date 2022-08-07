@@ -39,6 +39,7 @@ $$ \sigma^2 = \frac{\left( \sum_{i=1}^N (x_i - \mu)^2 \right)}{N}$$
 
 Summary, for deriving expectation and variance you can use some of popular probability distribution functions: **Bernoulli**, **Binomial**, **Geometric**, **Uniform**, or **Exponential**.
 
+To understand more about check the notebook available in the notebook folder.
 
 # Standard Deviation
 
