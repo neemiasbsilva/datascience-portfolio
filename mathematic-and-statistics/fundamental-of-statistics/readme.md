@@ -60,3 +60,13 @@ $$ Cor(X, Y) = {Cov(X, Y) \over \sigma_x \sigma_y} $$
 When interpret correlation is to not confuse it with a **causation**, given that a correlation is not a causation. Another point to keep in mind, coefficients'value range varie between -1 and 1, and if you want to use correlation of a variable itself the result its always be 1, in other words $Cor(X, X) = 1$.
 
 To understand more about check the notebook available in the notebook folder.
+
+# Covariance
+
+For measure the joint variability of two random variables and describe the relationship between these two variables we use as a metric **Covariance**. This metric can be defined as the expected value of the product of the two variables from their means. The formula show bellow:
+
+$$ Cov(Y, Z) = E[(Y - E(Y)) (Z - E(Z))] $$
+
+Covariance can take negative, positive or zero values. Positive indicate that these two variables tend to vary in the same direction. Negative indicate the variables vary in the opposite direction. And finally, zero meant they don't vary together.
+
+To understand more about check the notebook available in the notebook folder.
