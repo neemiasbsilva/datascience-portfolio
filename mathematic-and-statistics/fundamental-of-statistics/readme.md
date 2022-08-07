@@ -30,3 +30,11 @@ This mean is also referred to as **expectation** which defined by E() or random 
 $$ \bar{\mathbb{X}} = \frac{\left( \sum_{i=1}^N X_i \right)}{N} $$ 
 
 To understand more about check de notebook available in the notebook folder.
+
+# Variance
+
+For know how far the number of observations (data point) are spreads out from the average value, we use the variance. For undertand better, variance is equal to the sum of squares of difference between the data values and the average (mean). The variance can be expressed as follows:
+
+$$ \sigma^2 = \frac{\left( \sum_{i=1}^N (x_i - \mu)^2 \right)}{N}$$
+
+Summary, for deriving expectation and variance you can use some of popular probability distribution functions: **Bernoulli**, **Binomial**, **Geometric**, **Uniform**, or **Exponential**.
