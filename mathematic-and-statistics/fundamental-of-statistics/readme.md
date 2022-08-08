@@ -81,3 +81,15 @@ $$ \sum P(X) = 1 $$
 where the first criterium states that all probabilities should be numbers in the range of [0, 1], and the second criterium states that the sum of all possible probabilities should be equal to 1.
 
 PDF can be split up into **discrete** distribution and **continous** distribution. Discrete describe the random process of countable sample space (e.g. tossing a coing that has two outcomes), examples of discrete pdf can be: Bernoulli, Binomial, Poisson, Discrete Uniform. Continous describe the random process with continous sample space, examples of continous pdf can be: Normal, Continous Uniform, Caughy.
+
+## Binomial Distribution Function
+
+Binomial pdf function gives the number of sucess in a sequence of n independent experiments, in other word, gives a boolean value outcome: sucess(with probability $p$ ) or failure (with probability $q = 1-p$ ). Binomial can be expressed as the follow math formula:
+
+$$ Pr(X=k) = \binom{n}{k} p^k q^{n-k} $$
+
+where X is a random variable, k is sucess observations, and n is the number of independent trials.
+
+General, Binomial is useful when we want to analyzing the results of repeated experiments, especially if one is interested in the probability of meeting a particular threshold given a specific error rate.
+
+To understand more about check the notebook available in the notebook folder.
