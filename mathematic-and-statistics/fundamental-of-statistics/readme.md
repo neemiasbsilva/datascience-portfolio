@@ -70,3 +70,14 @@ $$ Cov(Y, Z) = E[(Y - E(Y)) (Z - E(Z))] $$
 Covariance can take negative, positive or zero values. Positive indicate that these two variables tend to vary in the same direction. Negative indicate the variables vary in the opposite direction. And finally, zero meant they don't vary together.
 
 To understand more about check the notebook available in the notebook folder.
+
+# Probability Distribution Functions
+
+Probability Distribution Function, also called pdf, is a function that describe all possible values in the sample space, and the corresponding probabilities that a random variable can take within a give range. Every pdf needs to sastify the follow two criteria:
+
+$$ 0 \lt P_r(X) \le 1 $$
+$$ \sum P(X) = 1 $$
+
+where the first criterium states that all probabilities should be numbers in the range of [0, 1], and the second criterium states that the sum of all possible probabilities should be equal to 1.
+
+PDF can be split up into **discrete** distribution and **continous** distribution. Discrete describe the random process of countable sample space (e.g. tossing a coing that has two outcomes), examples of discrete pdf can be: Bernoulli, Binomial, Poisson, Discrete Uniform. Continous describe the random process with continous sample space, examples of continous pdf can be: Normal, Continous Uniform, Caughy.
