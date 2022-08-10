@@ -93,3 +93,11 @@ where X is a random variable, k is sucess observations, and n is the number of i
 General, Binomial is useful when we want to analyzing the results of repeated experiments, especially if one is interested in the probability of meeting a particular threshold given a specific error rate.
 
 To understand more about check the notebook available in the notebook folder.
+
+# Poisson Distribution Function
+
+Poisson is the driscrete pdf of the events in a specified time period, given the average number of times evets occur over that time period. In a particular example, Poisson distribution can be used to model the number of people arriving the subway statio between 6 and 11 am. Poison can be expressed as the follow math formula:
+
+$$ P_r(X=k) = {\lambda^k e^{-\lambda} \over K!} $$
+
+To understand more about check the notebook available in the notebook folder.
