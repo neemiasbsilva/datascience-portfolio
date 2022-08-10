@@ -101,3 +101,7 @@ Poisson is the driscrete pdf of the events in a specified time period, given the
 $$ P_r(X=k) = {\lambda^k e^{-\lambda} \over K!} $$
 
 To understand more about check the notebook available in the notebook folder.
+
+# Reference
+
+[[1](https://www.oreilly.com/library/view/think-stats-2nd/9781491907344/)] Downey, Allen B. Think stats. " O'Reilly Media, Inc.", 2011.
