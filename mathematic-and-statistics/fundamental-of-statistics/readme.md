@@ -112,6 +112,20 @@ where the $\mu$ is the mean of the distribution also referred to the **location 
 
 To understand more about check the notebook available in the notebook folder.
 
+## Bayes Theorem
+
+Is the most powerful rule of probability and statistics. Bayes bring the conpect of **sujectivity** into the word of Statiscs and Math, base on the pior information of conditions that me related at that event. Bayes theorem cab expressed as follow:
+
+$$ P_r(X | Y) = { P_r(Y | X) P_r(X)  \over P_r(Y)} $$
+
+- $P_r(X|Y)$: the probability of event X occuring given that event or condition Y has occured or is true, also called _posterior_.
+- $P_r(Y|X)$: the probability of event Y occuring given that event or condition X has occured or is true, also called _likilihood_.
+- $P_r(X)$ & $P_r(Y)$: the probabilities of observing events X and Y, respectively. The $P_r(X)$ is called _prior_ and $P_r(Y)$ _marginalization_.
+
+A good example of Bayes probability can be the probabilitie of getting Coronavirus (event X) conditional on being at a certain age $P_r(X|Y)$, which is equal to the probability of being at a certain age give one got covid ($P_r(Y|X)$, multiplied with the probability of getting covid $P_r(X)$, and divided to the probability of being at a certain age $P_r(Y)$.
+
+To understand more about check the notebook available in the notebook folder.
+
 # Reference
 
 [[1](https://www.oreilly.com/library/view/think-stats-2nd/9781491907344/)] Downey, Allen B. Think stats. " O'Reilly Media, Inc.", 2011.
