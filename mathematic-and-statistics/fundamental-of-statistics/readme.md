@@ -94,11 +94,21 @@ General, Binomial is useful when we want to analyzing the results of repeated ex
 
 To understand more about check the notebook available in the notebook folder.
 
-# Poisson Distribution Function
+## Poisson Distribution Function
 
 Poisson is the driscrete pdf of the events in a specified time period, given the average number of times evets occur over that time period. In a particular example, Poisson distribution can be used to model the number of people arriving the subway statio between 6 and 11 am. Poison can be expressed as the follow math formula:
 
 $$ P_r(X=k) = {\lambda^k e^{-\lambda} \over K!} $$
+
+To understand more about check the notebook available in the notebook folder.
+
+## Gaussian Distribution
+
+Gaussian distibution is the continuos probability distribution for a real-valued variable. Also called Normal Distribution, its on of the most popular distribution fuctions for example, it is used to model peoples height or test scores. Normal distibution can be expressed as the follow math formula:
+
+$$ P_r (X = k) = { 1 \over \sigma \sqrt{2 \pi}} e^{- \frac{1}{2} (\frac{x - \mu}{\sigma})}$$
+
+where the $\mu$ is the mean of the distribution also referred to the **location parameter**; $\sigma$ is the standard deviation of the distribution also referred to as the scale parameter.
 
 To understand more about check the notebook available in the notebook folder.
 
