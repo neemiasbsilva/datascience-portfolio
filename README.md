@@ -8,9 +8,9 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges i ea
 
 ## Table of Contents
 
-- [Pogramming Skills](#programming-skills)
-- [Math & Stat](#math--stat)
-- 
+- [Pogramming Skills](#programming-skills);
+- [Math & Stat](#math--stat);
+- [Machine Learning](#machine-learning).
 
 ## Math & Stat
 
@@ -31,3 +31,5 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges i ea
   - Dynamic programming;
   - Grasp Heuristic;
   - TABU Search.
+
+## Machine Leaning
