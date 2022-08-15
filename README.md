@@ -20,7 +20,9 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges i ea
   - Variance;
   - Standard Deviation (STD);
   - Correlation;
-  - Covariance.
+  - Covariance;
+  - Probability Distribution Functions;
+  - Bayes Theorem.
 
 ## Programming Skills
 
