@@ -33,3 +33,4 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges i ea
   - TABU Search.
 
 ## Machine Leaning
+  - [Machine Leaning Algorithms - Tutorial](https://github.com/neemiasbsilva/machine-learning-algorithm);
