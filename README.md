@@ -34,3 +34,4 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges i ea
 
 ## Machine Leaning
   - [Machine Leaning Algorithms - Tutorial](https://github.com/neemiasbsilva/machine-learning-algorithm);
+  - [Regression in Convolutional Neural Network for Applied to Plant Leaf Count](https://github.com/neemiasbsilva/regression-in-CNNs-applied-to-plant-leaf-count);
