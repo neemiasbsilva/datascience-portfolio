@@ -2,6 +2,15 @@
 
 You see some implementations and concepts about Fundamental of Statistics for Data Science and Data Analystic.
 
+- [Population vs Sample](#population-vs-sample);
+- [Mean](#mean);
+- [Variance](#variance);
+- [Standard Deviation](#standard-deviation);
+- [Correlation](#correlation);
+- [Covariance](#covariance);
+- [Probability Distribution Function](#probability-distribution-function);
+- [Linear Regression](#linear-regression);
+
 # Population vs Sample
 
 To diving deeper of statistic topics, first of all you need to understand the difference between **Population** and **Sample**. Population is the set of all observations (individuals, procedures, events, or objects) and usually is very large and diverse. Sample is a subset of observations from the population that ideally is a true representation of the population. The figure bellow ilutrate the process more intuitive.
