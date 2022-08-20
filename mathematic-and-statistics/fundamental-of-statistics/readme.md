@@ -126,6 +126,22 @@ A good example of Bayes probability can be the probabilitie of getting Coronavir
 
 To understand more about check the notebook available in the notebook folder.
 
+# Linear Regression
+
+Linear Regression is a statistical method that can help to model the impact of a unit change in a variable (**independent variable**, also called **regressors/explanatory variables**) on the values of another variable (**dependent variable**, also called **reponse/explained variables**). Linear Regression can be _Simple Linear Regression_ or _Multiple Linear Regression_.
+
+Simple Linear Regression can expressed as follow:
+
+$$ Y = \theta_0 + \theta_1 X + u $$
+
+where y is the response, x the regressors, $\theta_0$ unkown constant, $\theta_1$ slope coefficient, and _u_ the error term.
+
+In other hand, Multiple Linear Regression can be expressed as follow:
+
+$$ Y = \theta_0 + \theta_1 X_1 + \theta_2 X_2 + ... + \theta_n X_n $$
+
+An example of use case for simple or multiple Linear Regression, can be visualized in this [notebook](https://github.com/neemiasbsilva/machine-learning-algorithm/blob/master/supervised-learning/linear-regression.ipynb).
+
 # Reference
 
 [[1](https://www.oreilly.com/library/view/think-stats-2nd/9781491907344/)] Downey, Allen B. Think stats. " O'Reilly Media, Inc.", 2011.
