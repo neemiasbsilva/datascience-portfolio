@@ -159,6 +159,19 @@ Its a method for estimate unknown parameter such $\theta_0$, $\theta_1$, ... $\t
 $$ \theta_1 = { {\sum_{i=1}^N (X_i - \bar{\mathbb{X}}) (Y_i - \bar{\mathbb{Y}})} \over {\sum_{i=1}^N (X_i - \bar{\mathbb{X}})^2} } $$
 
 
+# Standard Error
+Standard error is the square root of variance of a specefic coefficient estimator. **Note** error terms will never be observed, but residual can be calculated from data.
+
+Residual error can be expressed as follow:
+
+$$ û_i = Y_i - \bar{Y_i} $$
+
+Summary, for calculate the standard error (SE) firts of all we need to calculate the sample residual variance, and after that the SE is calculated applied square root:
+
+$$ Var(\bar{\theta}) $$
+
+$$ SE(\bar{\theta}) = \sqrt{Var(\bar{\theta})} $$
+
 # Reference
 
 [[1](https://www.oreilly.com/library/view/think-stats-2nd/9781491907344/)] Downey, Allen B. Think stats. " O'Reilly Media, Inc.", 2011.
