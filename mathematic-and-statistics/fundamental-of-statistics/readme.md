@@ -151,6 +151,13 @@ $$ Y = \theta_0 + \theta_1 X_1 + \theta_2 X_2 + ... + \theta_n X_n $$
 
 An example of use case for simple or multiple Linear Regression, can be visualized in this [notebook](https://github.com/neemiasbsilva/machine-learning-algorithm/blob/master/supervised-learning/linear-regression.ipynb).
 
+# Ordinary Least Squares (OLS)
+
+Its a method for estimate unknown parameter such $\theta_0$, $\theta_1$, ... $\theta_n$. Based on the principle of **least square**, OLS calculate the difference between the real and predicted values of dependent variable (Y) is referred to as **residual**. OLS also called **Coefficient estimates**, for known the $\theta_1$ we compute the follow:
+
+$$ \theta_1 = { {\sum_{i=1}^N (X_i - \bar{\mathbb{X}}) (Y_i - \bar{\mathbb{Y}})} \over {\sum_{i=1}^N (X_i - \bar{\mathbb{X}})^2} } $$
+
+
 # Reference
 
 [[1](https://www.oreilly.com/library/view/think-stats-2nd/9781491907344/)] Downey, Allen B. Think stats. " O'Reilly Media, Inc.", 2011.
