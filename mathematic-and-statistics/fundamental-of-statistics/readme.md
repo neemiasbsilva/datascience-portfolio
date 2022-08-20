@@ -11,6 +11,7 @@ You see some implementations and concepts about Fundamental of Statistics for Da
 - [Probability Distribution Function](#probability-distribution-functions);
 - [Linear Regression](#linear-regression);
 - [Ordinary Least Squares](#ordinary-least-squares-ols);
+- [Standard Error](#standard-error);
 
 # Population vs Sample
 
