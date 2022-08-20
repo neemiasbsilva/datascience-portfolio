@@ -8,8 +8,9 @@ You see some implementations and concepts about Fundamental of Statistics for Da
 - [Standard Deviation](#standard-deviation);
 - [Correlation](#correlation);
 - [Covariance](#covariance);
-- [Probability Distribution Function](#probability-distribution-function);
+- [Probability Distribution Function](#probability-distribution-functions);
 - [Linear Regression](#linear-regression);
+- [Ordinary Least Squares](#ordinary-least-squares-ols);
 
 # Population vs Sample
 
