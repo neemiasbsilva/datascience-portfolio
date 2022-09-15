@@ -2,9 +2,9 @@
 
 You see some implementations and use case about Kolmogorov Smirnov Test.
 
-- [Komogorov Smirnov Test](#population-vs-sample).
+- [Overview](#population-vs-sample).
 
-# Population vs Sample
+# Overview
 
 To diving deeper of Kolmogorov Smirnov Test, first of all you need to get a overview of the basic concepts of this subject.
 
@@ -13,7 +13,7 @@ To diving deeper of Kolmogorov Smirnov Test, first of all you need to get a over
 <h6 align="center"> Example of the Kolmogorov Smirnov Test. For more details about check 
   <a href="https://www.scribbr.com/methodology/population-vs-sample/#:~:text=A%20population%20is%20the%20entire,t%20always%20refer%20to%20people.](https://acervolima.com/teste-kolmogorov-smirnov-em-programacao-r/)](https://acervolima.com/teste-kolmogorov-smirnov-em-programacao-r/">Kolmogorov Smirnov Test using R.</a> web site.</h6>
 
-So, to make your experimental results more reliable and hold for the entire population, the sample needs to be true representation of the population. That is, the sample needs to be unbiased. In other words, if your sample don't represent the true repesentation, you have to use some statistical sampling techniques (e.g. Random Sampling, Systematic Sampling, Clustered Sampling, Wheighted Sampling, or Stratified Sampling).
+More about the basic concept please check the follow material available in this [link](https://github.com/neemiasbsilva/NeemiasBuceli-ds-portfolio/blob/main/mathematic-and-statistics/kolmogorov_smirnov_test/notebooks/kolmogorov_smirnov_test.ipynb).
 
 
 
