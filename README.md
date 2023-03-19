@@ -10,9 +10,9 @@
 
 ## Context
 
-Hello guys, welcome to my Data Science Portfolio. I include some knowledges i earn in my journey. I'll include some case study, papers, and code.
+Hello guys, welcome to my Data Science Portfolio. I include some knowledges I earn in my journey. I'll include some case study, papers, and code.
 
-**Note**: This repository was created recently and I upgrade as soon as i can.
+**Note**: This repository was created recently and I upgrade as soon as I can.
 
 ## Table of Contents
 
@@ -31,6 +31,8 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges i ea
   - Covariance;
   - Probability Distribution Functions;
   - Bayes Theorem.
+
+  - [Bootstraping](bootstrapping);
 
 ## Programming Skills
 
