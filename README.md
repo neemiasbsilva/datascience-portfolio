@@ -31,9 +31,8 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
   - Covariance;
   - Probability Distribution Functions;
   - Bayes Theorem.
-
-  - [Bootstraping](mathematic-and-statistics/bootstrapping);
-  - [Expectation Algorithm](mathematic-and-statistics/expectation_algorithm);
+- [Bootstraping](mathematic-and-statistics/bootstrapping);
+- [Expectation Algorithm](mathematic-and-statistics/expectation_algorithm);
 
 ## Programming Skills
 
