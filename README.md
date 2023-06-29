@@ -49,3 +49,6 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
   - [Forecasting Data Analysis](forecasting/);
   - [Pattern Recognition](pattern-recognition/):
     - Linear Algebra - Singular Value Decomposition;
+    - Vector Calculus;
+    - Probability and Distribution;
+    - Optimization and Convex Optimization.
