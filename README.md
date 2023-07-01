@@ -52,3 +52,6 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
     - Vector Calculus;
     - Probability and Distribution;
     - Optimization and Convex Optimization.
+    - Machine Learning Algorithm:
+      - Linear:
+        - Perceptron;
