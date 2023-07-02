@@ -38,7 +38,7 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
 ## Programming Skills
 
 - [Code Challenge](https://github.com/neemiasbsilva/programming-skills);
-- [ knapsack-problem-using-dp-grasp-tabu](https://github.com/neemiasbsilva/knapsack-problem-using-dp-grasp-tabu);
+- [knapsack-problem-using-dp-grasp-tabu](https://github.com/neemiasbsilva/knapsack-problem-using-dp-grasp-tabu);
   - Dynamic programming;
   - Grasp Heuristic;
   - TABU Search.
