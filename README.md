@@ -1,4 +1,5 @@
 # Neemias Buceli Portfolio
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
@@ -43,7 +44,8 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
   - TABU Search.
 
 ## Machine Leaning
-  - [Machine Leaning Algorithms - Tutorial](https://github.com/neemiasbsilva/machine-learning-algorithm);
+
+- [Machine Leaning Algorithms - Tutorial](https://github.com/neemiasbsilva/machine-learning-algorithm);
   - [Regression in Convolutional Neural Network for Applied to Plant Leaf Count](https://github.com/neemiasbsilva/regression-in-CNNs-applied-to-plant-leaf-count);
   - [Case Studies: Data Science Projects](https://github.com/neemiasbsilva/case-study-data-science);
   - [Forecasting Data Analysis](forecasting/);
@@ -55,3 +57,5 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
     - Machine Learning Algorithm:
       - Linear:
         - Perceptron;
+        - Adaline;
+        - Logistic Regression.
