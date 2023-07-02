@@ -17,9 +17,9 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
 
 ## Table of Contents
 
-- [Pogramming Skills](#programming-skills);
-- [Math & Stat](#math--stat);
-- [Machine Learning](#machine-learning).
+- [Pogramming Skills](programming-skills);
+- [Math & Stat](math--stat);
+- [Machine Learning](machine-learning).
 
 ## Math & Stat
 
