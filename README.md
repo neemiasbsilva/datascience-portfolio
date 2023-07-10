@@ -59,3 +59,10 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
         - Perceptron;
         - Adaline;
         - Logistic Regression.
+      - Non Linear:
+        - SVM;
+        - Decision Tree;
+        - Random Forest;
+        - Adaboost;
+        - Gradient Boosting;
+        - XGBoost.
