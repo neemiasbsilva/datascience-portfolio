@@ -57,6 +57,11 @@ Training using a `XGBOOST` model using the following structure:
 
 For each experiments we use the ROC (Receiver Operating Charateristics) curve where we try to maximize the area under the curve or AUC.
 
+
+<p align="center">
+<img src="figures/image.png" width="300">
+<h6 align="center"> Example of ROC Curve definition.</h6>
+
 | Approachs       | ML Model          | Numbers of Independent Features | ROC AUC |
 |-----------------|-------------------|---------------------------------|---------|
 | First Approach  | Linear Regression |                2                |   0.78  |
