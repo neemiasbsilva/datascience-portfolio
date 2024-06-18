@@ -20,8 +20,8 @@ FROM
         WHERE
             totals.newVisits = 1
             AND date BETWEEN '20160801' AND '20170430' -- train on first 9 month
-    JOIN
     )
+    JOIN
     (
         SELECT
             fullVisitorId,
