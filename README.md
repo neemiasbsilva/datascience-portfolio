@@ -1,4 +1,4 @@
-# Neemias Buceli Portfolio
+# Neemias Buceli Data Science Portfolio
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -66,3 +66,6 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
         - Adaboost;
         - Gradient Boosting;
         - XGBoost.
+- [Predict wich new visitors will come back and purchase using the Google Merchandise Store dataset](ecommerce-using-bigquery-ML).
+- 
+<!-- - [Credit Risck Analysis](credict-risk-analysis) -->
