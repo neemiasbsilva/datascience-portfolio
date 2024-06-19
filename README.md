@@ -17,9 +17,10 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
 
 ## Table of Contents
 
-- [Pogramming Skills](programming-skills);
-- [Math & Stat](math--stat);
-- [Machine Learning](machine-learning).
+- [Math & Stat](#math--stat);
+- [Pogramming Skills](#programming-skills);
+- [Machine Learning](#machine-leaning);
+- [Deep Learning](#deep-learning).
 
 ## Math & Stat
 
@@ -46,9 +47,8 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
 ## Machine Leaning
 
 - [Machine Leaning Algorithms - Tutorial](https://github.com/neemiasbsilva/machine-learning-algorithm);
-  - [Regression in Convolutional Neural Network for Applied to Plant Leaf Count](https://github.com/neemiasbsilva/regression-in-CNNs-applied-to-plant-leaf-count);
-  - [Case Studies: Data Science Projects](https://github.com/neemiasbsilva/case-study-data-science);
-  - [Forecasting Data Analysis](forecasting/);
+- [Case Studies: Data Science Projects](https://github.com/neemiasbsilva/case-study-data-science);
+- [Forecasting Data Analysis](forecasting/);
 - [Pattern Recognition](pattern-recognition/):
   - Linear Algebra - Singular Value Decomposition;
     - Vector Calculus;
@@ -67,5 +67,10 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
         - Gradient Boosting;
         - XGBoost.
 - [Predict wich new visitors will come back and purchase using the Google Merchandise Store dataset](ecommerce-using-bigquery-ML).
-- 
-<!-- - [Credit Risck Analysis](credict-risk-analysis) -->
+
+## Deep Learning
+
+- [Regression in Convolutional Neural Network for Applied to Plant Leaf Count](https://github.com/neemiasbsilva/regression-in-CNNs-applied-to-plant-leaf-count);
+- [Music Gener classification using MLFlow for tracking metrics in azure cloud](https://github.com/neemiasbsilva/music-genre-classification-mlflow-azure)
+- [MiniGPT4 for image caption generation](https://github.com/neemiasbsilva/MiniGPT4-image-caption-generation);
+- [Developing a nano GPT-2 from scratch using PyTorch and training using the Fineweb datase](https://github.com/neemiasbsilva/developing-nanoGPT2-fineweb).
