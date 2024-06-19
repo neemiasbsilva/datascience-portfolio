@@ -11,9 +11,9 @@
 
 ## Context
 
-Hello guys, welcome to my Data Science Portfolio. I include some knowledges I earn in my journey. I'll include some case study, papers, and code.
+Welcome to my Data Science Portfolio. Here, I showcase the insights and skills I have acquired throughout my journey in the field. You’ll find a collection of case studies, research papers, and code that illustrate my work and expertise.
 
-**Note**: This repository was created recently and I upgrade as soon as I can.
+Note: I regularly update this repository with new projects and links to additional repositories for more complex projects that exceed the scope of this one. Stay tuned for more exciting updates!
 
 ## Table of Contents
 
